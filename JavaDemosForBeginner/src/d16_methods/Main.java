@@ -14,6 +14,8 @@ public class Main {
 		System.out.println("Customer Added!");
 	}
 	
+	
+	// Variable Arguments: int... You can enter how many numbers do you want.
 	public static int addNumbers(int... numbers) {
 		int total = 0;
 		
